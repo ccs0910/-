@@ -1,0 +1,20 @@
+.head{
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 40px;
+}
+.head img{
+    width: 80px;
+    height: 80px;
+}
+.body{
+    border: 30px auto;
+
+    
+}
+
+.foot{
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 40px;
+}
